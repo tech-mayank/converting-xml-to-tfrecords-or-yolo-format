@@ -11,7 +11,5 @@ You can have a look at example folder to get some understanding about it's worki
 * **generate_tfrecord.py** reads the previously generated CSV and label map files, as well as all the images from a given directory, and generates a TFRecord file, which can then be used to train an object detection model with TensorFlow. The resulting TFRecord file is about the same size of all the original images that were included in it.
 * **generate_yolo_txt.py** reads the CSV file and generates one .txt file for each image mentioned in the CSV file, whith the same name of the image file. These .txt files contain the object annotations for that image, in a format which [darknet](https://pjreddie.com/darknet/yolo/) uses to train its models.
 
-## Usage
-
-The scripts are to be called in a terminal. In order to know what arguments a particular script expects, run it with the `-h` flag to see a help message. For example: `python generate_tfrecord.py -h`
-
+## How to Use
+There is no hard and fast rule to use it. You just have to fork it and run the given .ipynb file in google colab. But before using it upload your xml files and it's corresponding images to the the drive which you'll be mounting with the colab notebook. Store the images and corresponding .xml files in separate folders.

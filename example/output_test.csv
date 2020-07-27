@@ -1,0 +1,8 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image(0).jpg,320,428,no_mask,70,99,265,372
+image(1).jpg,320,428,no_mask,75,115,263,379
+image(2).jpg,197,256,no_mask,32,25,167,228
+image(3).jpg,196,258,no_mask,56,85,157,182
+image(4).jpg,238,212,no_mask,21,5,83,124
+image(4).jpg,238,212,no_mask,119,2,234,172
+image(5).jpg,320,428,no_mask,63,80,257,385

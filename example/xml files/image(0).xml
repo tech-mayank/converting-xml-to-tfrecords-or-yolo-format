@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image(0).jpg</filename>
+	<path>C:\Users\mayank singhal\OneDrive\Desktop\train\images\image(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>99</ymin>
+			<xmax>265</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
